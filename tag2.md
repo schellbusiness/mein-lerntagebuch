@@ -4,6 +4,7 @@
 
 Heute habe ich gelernt, wie der grundlegende Git-Workflow funktioniert:
 
+- `touch tag2.,md` - neu file erstellen 
 - `git add tag2.md` – bereitet meine Datei für den nächsten Commit vor
 - `nano tag2.md` – öffnet die Datei im Editor, damit ich sie bearbeiten kann
 - `git status` – zeigt mir den aktuellen Status meines Git-Repositories
